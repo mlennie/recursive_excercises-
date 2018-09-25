@@ -1,3 +1,5 @@
+# https://brilliant.org/practice/cs-recursion/?p=6
+
 def findIndex(array, number, index=0)
   # get middle value
   middle_value_index = (array.length - 1 ) / 2
