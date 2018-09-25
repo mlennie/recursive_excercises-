@@ -1,3 +1,5 @@
+# https://brilliant.org/practice/cs-recursion/?p=5
+
 def findOptions(options, currentJumps)
   [1,2].each do |n|
     newCurrentJumps = currentJumps.dup
